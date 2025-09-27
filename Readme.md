@@ -16,8 +16,10 @@ You will be given the `index.java` file, which contains a series of unit tests. 
 2.  **Clone the repository:** Now that you have your own fork, clone it to your local machine using the `git clone` command. Replace `[your-username]` with your actual GitHub username.
 
     `git clone https://github.com/[your-username]/[repository-name].git`
+    <img width="1916" height="918" alt="image" src="https://github.com/user-attachments/assets/7930ab37-7ece-42e7-aeea-f098756d24a2" />
 
-3.  **Navigate to the project directory:** Use your terminal to move into the project folder you just cloned.
+
+4.  **Navigate to the project directory:** Go to the project folder you just cloned.
 
 -----
 
